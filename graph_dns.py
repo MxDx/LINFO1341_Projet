@@ -2,7 +2,7 @@ import scapy.all as scapy
 import matplotlib.pyplot as plt
 
 # Read the PCAP file
-packets = scapy.rdpcap(".pcap")
+packets = scapy.rdpcap("call_dns.pcap")
 
 # Extract the DNS queries from the packets
 dns_queries = []

@@ -1,3 +1,5 @@
+# Introduction
+This repository contains .pcap file create using wireshark. We analyze traffic of the Signal app. The graph_dns.py file is use to see the different dns call in a graphic, and the mesure_vocal_video.py is use to plot the number of packet exchange in two different files.
 
 # Configuration of device
 
